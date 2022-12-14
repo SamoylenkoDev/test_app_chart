@@ -1,0 +1,47 @@
+.title{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.amount{
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.title_group{
+  margin-right: 30px;
+}
+
+.dot_light{
+  height: 12px;
+  width: 12px;
+  background-color: #4cfa6f;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot_medium{
+  height: 12px;
+  width: 12px;
+  background-color: #9cf8ae;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot_hard{
+  height: 12px;
+  width: 12px;
+  background-color: #c7fad1;
+  border-radius: 50%;
+  display: inline-block;
+}
+.paper {
+  margin-bottom: 50px;
+  padding: 30px;
+  display: flex;
+  overflow: auto;
+  flex-direction: column;
+  box-shadow: 0px 2px 1px -1px rgb(51, 51, 52), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(57, 57, 68) !important;
+}
+
